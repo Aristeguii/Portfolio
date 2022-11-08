@@ -12,7 +12,7 @@ En continuo aprendizaje demostrando capacidades de adaptación, buen trabajo en 
 
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
-  * Habilidades digitales para la empleabilidad - INEFOP (60hs)
+* **Habilidades digitales para la empleabilidad - INEFOP (60hs):**
   
   Crear planillas de excel.
   
