@@ -4,7 +4,6 @@ Entusiasta por el mundo IT. Tester en formación.
 En continuo aprendizaje demostrando capacidades de adaptación, buen trabajo en equipo, comunicación, pensamiento crítico, atención al detalle y flexibilidad. Interesado en seguir aprendiendo.
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
